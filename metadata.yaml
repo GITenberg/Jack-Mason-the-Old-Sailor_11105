@@ -1,0 +1,38 @@
+_repo: Jack-Mason-the-Old-Sailor_11105
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woodworth, Francis C. (Francis Channing)
+    aliases:
+    - Uncle Frank
+    - Woodworth, Francis Channing
+    - Woodworth, F. C. (Francis Channing)
+    - Thinker, Theodore
+    birthdate: 1812
+    deathdate: 1859
+    gutenberg_agent_id: '6789'
+    url: http://www.gutenberg.org/2009/agents/6789
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Arctic regions -- Juvenile fiction'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Whaling -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Egypt -- Juvenile fiction'
+- GITenberg
+tableOfContents: The old sailor -- Jack Mason's visit to the North Sea -- The Indians
+  -- The white bears -- Catching whales -- More Indians -- The little sailor boy --
+  The wreck -- The pyramids -- The whirlpool.
+title: Jack Mason, the Old Sailor
+url: http://www.gutenberg.org/ebooks/11105
